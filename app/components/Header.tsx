@@ -24,5 +24,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'flex-end',
     marginHorizontal: Size.lg,
+    marginTop: Size.lg,
   },
 });
